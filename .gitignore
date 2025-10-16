@@ -1,0 +1,16 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+/.classpath
+/.project
+/.settings/
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
